@@ -19,9 +19,9 @@
 
 ## Key Insights for Presentation
 
-> Most trips take between 3 to 12 minutes.
-> Most of our riders age lie between 24 to 34 and that the age graph is right skewed
-> Customer tend to take longer trips than Subscribers
-> Customers tend to do more trips on weekend than Subscribers
+>- Most trips take between 3 to 12 minutes.
+>- Most of our riders age lie between 24 to 34 and that the age graph is right skewed
+>- Customer tend to take longer trips than Subscribers
+>- Customers tend to do more trips on weekend than Subscribers
 
 
