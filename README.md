@@ -27,14 +27,14 @@
 
 ## Resources 
 >- I used lots of resources. Websites that I used a lot were stackoverflow, kaggle and some other websites that I had to go to when I face syntax error or when I need to do some changes to the plots. 
->https://stackoverflow.com/questions/28346022/retrieving-and-plotting-ordered-2d-heatmap-data-from-a-sqlite-database
->https://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
->https://www.kaggle.com/ahmedessam97/eda-ipl-dataset/edit
->https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019/tasks?taskId=2741
->https://stackoverflow.com/questions/56397108/how-can-i-select-specific-values-from-list-and-plot-a-seaborn-boxplot
->https://stackoverflow.com/questions/14770735/how-do-i-change-the-figure-size-with-subplots
->https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-values-from-other-columns-apply-a-function-o
->https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh
->https://stackoverflow.com/questions/53617786/how-to-remove-rows-in-a-dataframe-with-more-than-x-number-of-null-values/53617850
->https://stackoverflow.com/questions/13851535/how-to-delete-rows-from-a-pandas-dataframe-based-on-a-conditional-expression
->https://stackoverflow.com/questions/21572870/matplotlib-percent-label-position-in-pie-chart
+>- https://stackoverflow.com/questions/28346022/retrieving-and-plotting-ordered-2d-heatmap-data-from-a-sqlite-database
+>= https://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
+>- https://www.kaggle.com/ahmedessam97/eda-ipl-dataset/edit
+>- https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019/tasks?taskId=2741
+>- https://stackoverflow.com/questions/56397108/how-can-i-select-specific-values-from-list-and-plot-a-seaborn-boxplot
+>- https://stackoverflow.com/questions/14770735/how-do-i-change-the-figure-size-with-subplots
+>- https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-values-from-other-columns-apply-a-function-o
+>- https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh
+>- https://stackoverflow.com/questions/53617786/how-to-remove-rows-in-a-dataframe-with-more-than-x-number-of-null-values/53617850
+>- https://stackoverflow.com/questions/13851535/how-to-delete-rows-from-a-pandas-dataframe-based-on-a-conditional-expression
+>- https://stackoverflow.com/questions/21572870/matplotlib-percent-label-position-in-pie-chart
