@@ -4,8 +4,8 @@
 
 ## Dataset
 
-> The Ford-Go Bikes dataset contains information about every trip that was made in february 2019 and has many variable such as trip duration and member age, type(customer or subscriber), gender .... etc. 
-
+>- The Ford-Go Bikes dataset contains information about every trip that was made in february 2019 and has many variable such as trip duration and member age, type(customer or subscriber), gender .... etc. 
+>- I couldn't upload the data as used in the notebooks because of their size and I cannot upload files greater than 25mb so, I compressed them and then uploaded them as a .rar files that you can find here in this repositories
 
 ## Summary of Findings
 
